@@ -1,4 +1,4 @@
-# Calculator
+# Basic Financial Calculator
 This is a simple calculator that calculates the amount of interest you'll earn on your investment or the amount you'll have to pay on a home loan.
 
 To use the calculator, you first need to choose either "investment" or "bond" by typing it in the prompt and press enter.
